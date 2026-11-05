@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-recurring-transactions-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-recurring-transactions",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-recurring-transactions-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/recurring-transactions.md",
+  "presentationPlan": "projects/accounting/nextjs/recurring-transactions.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
